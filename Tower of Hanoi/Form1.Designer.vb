@@ -172,7 +172,7 @@ Partial Class Form1
         'PictureBox14
         '
         Me.PictureBox14.BackColor = System.Drawing.SystemColors.ActiveCaption
-        Me.PictureBox14.Location = New System.Drawing.Point(197, 543)
+        Me.PictureBox14.Location = New System.Drawing.Point(197, 544)
         Me.PictureBox14.Name = "PictureBox14"
         Me.PictureBox14.Size = New System.Drawing.Size(113, 24)
         Me.PictureBox14.TabIndex = 13
